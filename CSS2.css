@@ -1,0 +1,12 @@
+
+body{
+	background-color:#ffe6e6;
+}
+table,th,td{
+	border:solid;
+	border-collapse:collapse;
+}
+.class1{
+	text-align:center;
+	latter-spacing:20px;
+}
