@@ -1,6 +1,7 @@
 
-body{
+section{
 	background-color:#ffe6e6;
+	
 }
 table,th,td{
 	border:solid;
@@ -8,4 +9,19 @@ table,th,td{
 }
 .class1{
 	text-align:center;
+}
+footer{
+    text-align: center;
+    background-color: slategrey;
+    height: 6ex;
+}
+header{
+	border:solid;
+	height: 50px;
+	background-color: aqua;
+	margin: 0%;
+	padding: 0%;
+}
+.colour_class{
+	background-color: bisque;
 }
